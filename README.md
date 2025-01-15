@@ -37,4 +37,4 @@
 
 ### Informações Adicionais
 - *[GitHub](https://github.com/StephanyMil)*
-- *(LinkedIn)(https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
+- *[LinkedIn](https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
