@@ -5,9 +5,6 @@
 ### Dados Pessoais
 - *Telefone:* (62) 9 9459-4055
 - *Email:* [stephanymilhomem56@gmail.com](mailto:stephanymilhomem56@gmail.com)
-- *Data de Nascimento:* 19/10/2004 (20 anos)
-- *Local de Nascimento:* Aparecida de Goiânia - GO
-- *Nacionalidade:* Brasileira
 
 ### Idiomas
 - Alemão: Básico
@@ -39,5 +36,5 @@
 - *A partir do zero: HTML e CSS para projetos web* – Alura (06/2024 – 08/2024) - 53h (Concluído)
 
 ### Informações Adicionais
-- *GitHub:* [https://github.com/StephanyMil](https://github.com/StephanyMil)
-- *LinkedIn:* [https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- *[GitHub](https://github.com/StephanyMil)*
+- *(LinkedIn)(https://www.linkedin.com/in/stephany-de-oliveira-sousa-milhomem-a32288246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
